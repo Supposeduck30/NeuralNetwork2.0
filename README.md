@@ -60,4 +60,4 @@ This project was buit with no external libraries at all using only core python, 
 
 ## Known Issues 
 - Due to the random seed, the results will be different every time the code is run
-- Some predictions may be in the negatives but still close to 0 (This is due to the tanh function)
+- Some predictions may be in the negatives but still close to 0 (this is due to the tanh function)
