@@ -1,6 +1,6 @@
 # XOR Neural Network
 
-## A fully functional neural network written in python from scratch that learns the output of an XOR function 
+## A fully functional neural network written in python from scratch that learns the output of an XOR function.
 
 This project was buit with no external libraries at all using only core python, building a neural network from the ground up. This project:
 - Implements a value class for autograd (automatic differentiation)
