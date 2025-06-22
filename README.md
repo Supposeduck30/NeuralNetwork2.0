@@ -34,23 +34,23 @@ This project was buit with no external libraries at all using only core python, 
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed 
 
 ## How it works 
-### 1. Inputs go in
+1. Inputs go in
    - The model takes two numbers as an input (like [0, 1] or [1, 0])
 
-### 2. The "neurons" do math
+2. The "neurons" do math
    - It runs those inputs through multiple layers of math formulas called neurons
    - Each neuron adds the inputs in a unique way and then squashes the result into a number between -1 and 1 with the tanh function
 
-### 3. It guesses an answer
+3. It guesses an answer
 
-### 4. It checks how wrong the guess is
+4. It checks how wrong the guess is
    - It compares it's answer to the right one (called loss)
   
-### 5. It then changes its math to be a little more accurate
+5. It then changes its math to be a little more accurate
 
-### 6. It does this loop 4000 times
+6. It does this loop 4000 times
 
-### 7. It outputs its final prediction
+7. It outputs its final prediction
    - This prediction will sometimes not be spot on, as the model still might need more training
 
 - Each connection between neurons is random every single time, which helps the network learn better
