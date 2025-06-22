@@ -34,10 +34,10 @@ This project was buit with no external libraries at all using only core python, 
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed 
 
 ## How it works 
-### - 1. Inputs go in
-   - The model takes two numbers as an input (like [0, 1] or [1, 0])
+### 1. Inputs go in
+  #### - The model takes two numbers as an input (like [0, 1] or [1, 0])
 
-2. The "neurons" do math
+### 2. The "neurons" do math
    - It runs those inputs through multiple layers of math formulas called neurons
    - Each neuron adds the inputs in a unique way and then squashes the result into a number between -1 and 1 with the tanh function
 
