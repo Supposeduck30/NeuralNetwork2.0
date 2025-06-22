@@ -56,4 +56,8 @@ This project was buit with no external libraries at all using only core python, 
 - Each connection between neurons is random every single time, which helps the network learn better
 
 ## Resources
-### - https://www.ibm.com/think/topics/neural-networks (Neural Networks Explained)
+### https://www.ibm.com/think/topics/neural-networks (Neural Networks Explained)
+
+## Known Issues 
+- Due to the random seed, the results will be different every time the code is run
+- Some predictions may be in the negatives but still close to 0 (This is due to the tanh function)
