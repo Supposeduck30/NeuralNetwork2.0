@@ -54,3 +54,6 @@ This project was buit with no external libraries at all using only core python, 
    - This prediction will sometimes not be spot on, as the model still might need more training
 
 - Each connection between neurons is random every single time, which helps the network learn better
+
+## Resources
+### - https://www.ibm.com/think/topics/neural-networks
