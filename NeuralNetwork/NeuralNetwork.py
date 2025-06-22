@@ -97,7 +97,7 @@ class MLP:
         return [p for layer in self.layers for p in layer.parameters()]
 
 # XOR data
-random.seed(42)
+random.seed()
 model = MLP(2, [4, 4, 1])
 data = [ ([0, 0], 0), ([0, 1], 1), ([1, 0], 1), ([1, 1], 0) ]
 
