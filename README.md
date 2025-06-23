@@ -46,7 +46,7 @@ This project was buit with no external libraries at all using only core python, 
 #### 4. It checks how wrong the guess is
    - It compares it's answer to the right one (called loss)
   
-#### 5. It then changes its math to be a little more accurate
+#### 5. It then changes its math to be more accurate
 
 #### 6. It does this loop 4000 times
 
