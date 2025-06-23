@@ -16,7 +16,7 @@ This project was buit with no external libraries at all using only core python, 
 2. Download the script
 - If you have git installed, run:
   git clone https://github.com/Supposeduck30/xor-neural-network.git
-- Or, click the green code button and press "download zip, and then extract it 
+- Or, click the green code button and press "download zip", and then extract it 
 
 3. Inside of the directory, open the file named "NeuralNetwork.py"
 
