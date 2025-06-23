@@ -20,7 +20,9 @@ This project was buit with no external libraries at all using only core python, 
 
 3. Inside of the directory, open the file named "NeuralNetwork.py"
 
-4. ALTERNATIVE - You can paste the code into an online Python compiler
+4. Run it by inputting into the command prompt/terminal "python NeuralNetwork.py"
+
+5. ALTERNATIVE - You can paste the code into an online Python compiler
 
 ## How to tweak this project for your own use 
 1. Fork the repository
