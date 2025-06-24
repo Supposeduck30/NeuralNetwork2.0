@@ -12,6 +12,9 @@ This project was buit with no external libraries at all using only core python, 
 
 ## 🕓 Version History
 ### 1.0.0
+- Runs in terminal
+- Prints the training process every 200 epochs
+- Prints the final prediction for each XOR function
 
 ## 💻 How to run 
 1. Make sure python is installed on your device (You can verify this by running the command "python --version" in your terminal/command prompt")
