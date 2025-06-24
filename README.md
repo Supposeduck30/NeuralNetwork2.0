@@ -24,6 +24,9 @@ This project was buit with no external libraries at all using only core python, 
 
 5. ALTERNATIVE - You can paste the code into an online Python compiler
 
+6. #### THE CODE IS IN THE .py FILE INSIDE OF THE FOLDER
+
+
 ## How to tweak this project for your own use 
 1. Fork the repository
    
