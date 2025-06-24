@@ -10,7 +10,10 @@ This project was buit with no external libraries at all using only core python, 
 - Prints the training as it is happening real time every 200 epochs (one epoch is one runthrough through the whole dataset)
 - Outputs the final predictions for each XOR function after 4000 epochs 
 
-## How to run 
+## 🕓 Version History
+### 1.0.0
+
+## 💻 How to run 
 1. Make sure python is installed on your device (You can verify this by running the command "python --version" in your terminal/command prompt")
 
 2. Download the script
@@ -27,7 +30,7 @@ This project was buit with no external libraries at all using only core python, 
 6. #### THE CODE IS IN THE .py FILE INSIDE OF THE FOLDER
 
 
-## How to tweak this project for your own use 
+## 🔧 How to tweak this project for your own use 
 1. Fork the repository
    
 2. Clone the fork
@@ -38,7 +41,7 @@ This project was buit with no external libraries at all using only core python, 
    
 5. OPTIONAL - Create a pull request if you want the main repository to change the code with what you changed 
 
-## How it works 
+## 🧠 How it works 
 #### 1. Inputs go in
    - The model takes two numbers as an input (like [0, 1] or [1, 0])
 
@@ -64,9 +67,9 @@ This project was buit with no external libraries at all using only core python, 
 #### ![image](https://github.com/user-attachments/assets/3e640682-f5f8-4a38-9c80-93010d72679c)
 
 
-## Resources
+## 🔗 Resources
 ### https://www.ibm.com/think/topics/neural-networks (Neural Networks Explained)
 
-## Known Issues 
+## ⚠️ Known Issues 
 - Due to the random seed, the results will be different every time the code is run
 - Some predictions may be in the negatives but still close to 0 (this is due to the tanh function)
