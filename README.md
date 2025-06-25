@@ -16,6 +16,8 @@ This project was buit with no external libraries at all using only core python, 
 - Prints the training process every 200 epochs
 - Prints the final prediction for each XOR function
 
+### 1.0.1
+- Improved weight initialization from (1,-1) to Xavier/Glorot uniform intialization
 ## 💻 How to run 
 1. Make sure python is installed on your device (You can verify this by running the command "python --version" in your terminal/command prompt")
 
