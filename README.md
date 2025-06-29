@@ -75,6 +75,6 @@ This project was buit with no external libraries at all using only core python, 
 ## 🔗 Resources
 ### https://www.ibm.com/think/topics/neural-networks (Neural Networks Explained)
 
-## ⚠️ Known Issues 
+## ⚠️ Warnings/Known Issues 
 - Due to the random seed, the results will be different every time the code is run
 - Some predictions may be in the negatives but still close to 0 (this is due to the tanh function)
